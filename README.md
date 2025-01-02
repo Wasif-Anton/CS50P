@@ -7,7 +7,7 @@ An introduction to programming using a language called Python. Learn how to read
 
 ### Objectives
 Students who take CS50P learn:
-- Functions, variables
+- Functions, Variables
 - Conditionals
 - Loops
 - Exceptions
@@ -16,13 +16,19 @@ Students who take CS50P learn:
 - File I/O
 - Regular Expressions
 - Object-Oriented Programming
+- Et Cetera
 
 ### Projects
-CS50P includes ten lectures, each of which includes a problem set, except for 
-the final lecture when a final project is assigned.
+CS50P includes eleven lectures, each of which includes a problem set, except for the final lecture when a final project is assigned.
 
-- Week 0: Functions, Variables ([Link](https://cs50.harvard.edu/python/2022/weeks/0/) 
-  * Indoor voice: convert uppercase text to lowercase text ([Question](https://cs50.harvard.edu/python/2022/psets/0/indoor/)
+
+Playback Speed
+Making Faces
+Einstein
+Tip Calculator
+
+- [Week 0: Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
+  * Indoor Voice: convert uppercase text to lowercase text ([Question](https://cs50.harvard.edu/python/2022/psets/0/indoor/)
   * Playback speed: convert spaces to ... ([Question](https://cs50.harvard.edu/python/2022/psets/0/playback)
   * Making faces: convert text faces to emoji faces ([Question](https://cs50.harvard.edu/python/2022/psets/0/faces), [R](https://github.com/kvnduff/CS50P/tree/master/pset0/faces))
   * Einstein: convert mass to Joules ([Question](https://cs50.harvard.edu/python/2022/psets/0/einstein)
