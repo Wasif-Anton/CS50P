@@ -32,12 +32,11 @@ CS50P includes eleven lectures, each of which includes a problem set, except for
 - [Week 1: Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/)
   * [Deep Thought](https://cs50.harvard.edu/python/2022/psets/1/deep): prompt the user for the answer to the Great Question of Life 
   * [Home Federal Savings Bank](https://cs50.harvard.edu/python/2022/psets/1/bank): prompt the user for a greeting
-  * [File Extensions](https://cs50.harvard.edu/python/2022/psets/1/extensions): output a file’s media type
-  * * <a href="https://cs50.harvard.edu/python/2022/psets/1/extensions" target="_blank">File Extensions</a>: output a file’s media type
-  
-  * Math interpreter: evaluate an arithmetic expression ([I](https://cs50.harvard.edu/python/2022/psets/1/interpreter), [R](https://github.com/kvnduff/CS50P/tree/master/pset1/interpreter))
-  * Meal time: evaluate if a time is breakfast, lunch or dinner time ([I](https://cs50.harvard.edu/python/2022/psets/1/meal), [R](https://github.com/kvnduff/CS50P/tree/master/pset1/meal))
+  * [File Extensions](https://cs50.harvard.edu/python/2022/psets/1/extensions): output a file’s media type  
+  * [Math Interpreter](https://cs50.harvard.edu/python/2022/psets/1/interpreter): evaluate an arithmetic expression
+  * [Meal Time](https://cs50.harvard.edu/python/2022/psets/1/meal): evaluate if a time is breakfast, lunch, or dinner time
 
+  
 - Week 2: Loops
   * camelCase: convert camel case to snake case  ([I](https://cs50.harvard.edu/python/2022/psets/2/camel), [R](https://github.com/kvnduff/CS50P/tree/master/pset2/camel))
   * Coke machine: count coins inserted into coke machine ([I](https://cs50.harvard.edu/python/2022/psets/2/coke), [R](https://github.com/kvnduff/CS50P/tree/master/pset2/coke))
