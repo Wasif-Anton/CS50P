@@ -24,10 +24,10 @@ CS50P includes eleven lectures, each of which includes a problem set, except for
 
 - [Week 0: Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
   * [Indoor Voice](https://cs50.harvard.edu/python/2022/psets/0/indoor/): convert uppercase text to lowercase text
-  * Playback Speed: convert spaces to ... ([Question](https://cs50.harvard.edu/python/2022/psets/0/playback)
-  * Making Faces: convert text faces to emoji faces ([Question](https://cs50.harvard.edu/python/2022/psets/0/faces), [R](https://github.com/kvnduff/CS50P/tree/master/pset0/faces))
-  * Einstein: convert mass to Joules ([Question](https://cs50.harvard.edu/python/2022/psets/0/einstein)
-  * Tip Calculator: create a tip calculator ([Question](https://cs50.harvard.edu/python/2022/psets/0/tip)
+  * [Playback Speed](https://cs50.harvard.edu/python/2022/psets/0/playback): convert spaces to ...
+  * [Making Faces](https://cs50.harvard.edu/python/2022/psets/0/faces): convert text faces to emoji faces
+  * [Einstein](https://cs50.harvard.edu/python/2022/psets/0/einstein): convert mass to Joules
+  * [Tip Calculator](https://cs50.harvard.edu/python/2022/psets/0/tip): create a tip calculator
  
 - Week 1: Conditionals
   * Deep thought: prompt the user for the answer to the Great Question of Life ([I](https://cs50.harvard.edu/python/2022/psets/1/deep), [R](https://github.com/kvnduff/CS50P/tree/master/pset1/deep))
