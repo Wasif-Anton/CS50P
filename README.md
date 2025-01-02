@@ -36,43 +36,49 @@ CS50P includes eleven lectures, each of which includes a problem set, except for
   * [Math Interpreter](https://cs50.harvard.edu/python/2022/psets/1/interpreter): evaluate an arithmetic expression
   * [Meal Time](https://cs50.harvard.edu/python/2022/psets/1/meal): evaluate if a time is breakfast, lunch, or dinner time
 
-  
-- Week 2: Loops
-  * camelCase: convert camel case to snake case  ([I](https://cs50.harvard.edu/python/2022/psets/2/camel), [R](https://github.com/kvnduff/CS50P/tree/master/pset2/camel))
-  * Coke machine: count coins inserted into coke machine ([I](https://cs50.harvard.edu/python/2022/psets/2/coke), [R](https://github.com/kvnduff/CS50P/tree/master/pset2/coke))
-  * Just setting up my twttr: remove vowels from text  ([I](https://cs50.harvard.edu/python/2022/psets/2/twttr), [R](https://github.com/kvnduff/CS50P/tree/master/pset2/twttr))
-  * Vanity plates: determine the validity of license plates ([I](https://cs50.harvard.edu/python/2022/psets/2/plates), [R](https://github.com/kvnduff/CS50P/tree/master/pset2/plates))
-  * Nutrition facts: output the number of calories of fruit ([I](https://cs50.harvard.edu/python/2022/psets/2/nutrition), [R](https://github.com/kvnduff/CS50P/tree/master/pset2/nutrition))
-- Week 3: Exceptions
-  * Fuel gauge: convert fractions to percentages ([I](https://cs50.harvard.edu/python/2022/psets/3/fuel), [R](https://github.com/kvnduff/CS50P/tree/master/pset3/fuel))
-  * Felipe's Taqueria: take food order and determine price ([I](https://cs50.harvard.edu/python/2022/psets/3/taqueria), [R](https://github.com/kvnduff/CS50P/tree/master/pset3/taqueria))
-  * Grocery list: record grocery list ([I](https://cs50.harvard.edu/python/2022/psets/3/grocery), [R](https://github.com/kvnduff/CS50P/tree/master/pset3/grocery))
-  * Outdated: convert anno Domini date to YYYY-MM-DD ([I](https://cs50.harvard.edu/python/2022/psets/3/outdated), [R](https://github.com/kvnduff/CS50P/tree/master/pset3/outdated))
-- Week 4: Libraries
-  * Emojize: convert text to emojis ([I](https://cs50.harvard.edu/python/2022/psets/4/emojize), [R](https://github.com/kvnduff/CS50P/tree/master/pset4/emojize))
-  * Frank, Ian and Glen's letters: convert text to figlet text ([I](https://cs50.harvard.edu/python/2022/psets/4/figlet), [R](https://github.com/kvnduff/CS50P/tree/master/pset4/figlet))
-  * Adieu, adieu: bid adieu to inputted names ([I](https://cs50.harvard.edu/python/2022/psets/4/adieu), [R](https://github.com/kvnduff/CS50P/tree/master/pset4/adieu))
-  * Guessing game: create a number guessing game ([I](https://cs50.harvard.edu/python/2022/psets/4/game), [R](https://github.com/kvnduff/CS50P/tree/master/pset4/game))
-  * Little professor: create arithmetic game  ([I](https://cs50.harvard.edu/python/2022/psets/4/professor), [R](https://github.com/kvnduff/CS50P/tree/master/pset4/professor))
-  * Bitcoin Price Index: return the Bitcoin Price Index ([I](https://cs50.harvard.edu/python/2022/psets/4/bitcoin), [R](https://github.com/kvnduff/CS50P/tree/master/pset4/bitcoin))
-- Week 5: Unit Tests
-  * Testing my twittr: test "just setting up my twttr"   ([I](https://cs50.harvard.edu/python/2022/psets/5/test_twttr), [R](https://github.com/kvnduff/CS50P/tree/master/pset5/test_twttr))
-  * Back to the bank: test "Home Federal Savings Bank" ([I](https://cs50.harvard.edu/python/2022/psets/5/test_bank), [R](https://github.com/kvnduff/CS50P/tree/master/pset5/test_bank))
-  * Re-requesting a vanity plate: test "vanity plates" ([I](https://cs50.harvard.edu/python/2022/psets/5/test_plates), [R](https://github.com/kvnduff/CS50P/tree/master/pset5/test_plates))
-  * Refueling: test "fuel gauge" ([I](https://cs50.harvard.edu/python/2022/psets/5/test_fuel), [R](https://github.com/kvnduff/CS50P/tree/master/pset5/test_fuel))
-- Week 6: File I/O
-  * Lines of code: count lines of code in a Python file ([I](https://cs50.harvard.edu/python/2022/psets/6/lines), [R](https://github.com/kvnduff/CS50P/tree/master/pset6/lines))
-  * Pizza Py: convert text in a CSV file to a table ([I](https://cs50.harvard.edu/python/2022/psets/6/pizza), [R](https://github.com/kvnduff/CS50P/tree/master/pset6/pizza))
-  * Scourgify: convert format of names in a CSV file to another CSV file ([I](https://cs50.harvard.edu/python/2022/psets/6/scourgify), [R](https://github.com/kvnduff/CS50P/tree/master/pset6/scourgify))
-  * CS50P Shirt: overlay text on an image file ([I](https://cs50.harvard.edu/python/2022/psets/6/shirt), [R](https://github.com/kvnduff/CS50P/tree/master/pset6/shirt))
-- Week 7: Regular Expressions
-  * NUMB3RS: validate IPv4 addresses ([I](https://cs50.harvard.edu/python/2022/psets/7/numb3rs), [R](https://github.com/kvnduff/CS50P/tree/master/pset7/numb3rs))
-  * Watch on YouTube: parse YouTube URLs ([I](https://cs50.harvard.edu/python/2022/psets/7/watch), [R](https://github.com/kvnduff/CS50P/tree/master/pset7/watch))
-  * Working 9 to 5: convert times from 12-hour to 24-hour format ([I](https://cs50.harvard.edu/python/2022/psets/7/working), [R](https://github.com/kvnduff/CS50P/tree/master/pset7/working))
-  * Regular, um, expressions: count the number of times a string appears in text ([I](https://cs50.harvard.edu/python/2022/psets/7/um), [R](https://github.com/kvnduff/CS50P/tree/master/pset7/um))
-  * Response validation: validate email addresses ([I](https://cs50.harvard.edu/python/2022/psets/7/response), [R](https://github.com/kvnduff/CS50P/tree/master/pset7/response))
-- Week 8: Object-Oriented Programming
-  * Seasons of love: compute age from date ([I](https://cs50.harvard.edu/python/2022/psets/8/seasons), [R](https://github.com/kvnduff/CS50P/tree/master/pset8/seasons))
-  * Cookie jar: create an OOP program for attributes/methods of a cookie jar ([I](https://cs50.harvard.edu/python/2022/psets/8/jar), [R](https://github.com/kvnduff/CS50P/tree/master/pset8/jar))
-  * CS50 shirtificate: create a custom PDF image of shirt with text ([I](https://cs50.harvard.edu/python/2022/psets/8/shirtificate), [R](https://github.com/kvnduff/CS50P/tree/master/pset8/shirtificate))
-- Week 9: Et Cetera https://cs50.harvard.edu/python/2022/weeks/9/
+- [Week 2: Loops](https://cs50.harvard.edu/python/2022/weeks/2/)
+  * [camelCase](https://cs50.harvard.edu/python/2022/psets/2/camel): convert camel case to snake case
+  * [Coke Machine](https://cs50.harvard.edu/python/2022/psets/2/coke): count coins inserted into the coke machine
+  * [Just Setting Up My Twttr](https://cs50.harvard.edu/python/2022/psets/2/twttr): remove vowels from text
+  * [Vanity Plates](https://cs50.harvard.edu/python/2022/psets/2/plates): determine the validity of license plates
+  * [Nutrition Facts](https://cs50.harvard.edu/python/2022/psets/2/nutrition): output the number of calories of fruit
+
+- [Week 3: Exceptions]
+  * [Fuel Gauge](https://cs50.harvard.edu/python/2022/psets/3/fuel): convert fractions to percentages
+  * [Felipe's Taqueria](https://cs50.harvard.edu/python/2022/psets/3/taqueria): take food order and determine price
+  * [Grocery List](https://cs50.harvard.edu/python/2022/psets/3/grocery): record grocery list
+  * [Outdated](https://cs50.harvard.edu/python/2022/psets/3/outdated): convert anno Domini date to YYYY-MM-DD
+
+- [Week 4: Libraries]
+  * [Emojize](https://cs50.harvard.edu/python/2022/psets/4/emojize): convert text to emojis
+  * [Frank, Ian and Glen's Letters](https://cs50.harvard.edu/python/2022/psets/4/figlet): convert text to figlet text
+  * [Adieu, Adieu](https://cs50.harvard.edu/python/2022/psets/4/adieu): bid adieu to inputted names
+  * [Guessing Game](https://cs50.harvard.edu/python/2022/psets/4/game): create a number guessing game
+  * [Little Professor](https://cs50.harvard.edu/python/2022/psets/4/professor): create an arithmetic game
+  * [Bitcoin Price Index](https://cs50.harvard.edu/python/2022/psets/4/bitcoin): return the Bitcoin Price Index
+
+- [Week 5: Unit Tests]
+  * [Testing My Twittr](https://cs50.harvard.edu/python/2022/psets/5/test_twttr): test "just setting up my twttr"
+  * [Back to the Bank](https://cs50.harvard.edu/python/2022/psets/5/test_bank): test "Home Federal Savings Bank"
+  * [Re-requesting a Vanity Plate](https://cs50.harvard.edu/python/2022/psets/5/test_plates): test "vanity plates"
+  * [Refueling](https://cs50.harvard.edu/python/2022/psets/5/test_fuel): test "fuel gauge"
+
+- [Week 6: File I/O]
+  * [Lines of Code](https://cs50.harvard.edu/python/2022/psets/6/lines): count lines of code in a Python file
+  * [Pizza Py](https://cs50.harvard.edu/python/2022/psets/6/pizza): convert text in a CSV file to a table
+  * [Scourgify](https://cs50.harvard.edu/python/2022/psets/6/scourgify): convert format of names in a CSV file to another CSV file
+  * [CS50P Shirt](https://cs50.harvard.edu/python/2022/psets/6/shirt): overlay text on an image file
+
+- [Week 7: Regular Expressions]
+  * [NUMB3RS](https://cs50.harvard.edu/python/2022/psets/7/numb3rs): validate IPv4 addresses
+  * [Watch on YouTube](https://cs50.harvard.edu/python/2022/psets/7/watch): parse YouTube URLs
+  * [Working 9 to 5](https://cs50.harvard.edu/python/2022/psets/7/working): convert times from 12-hour to 24-hour format
+  * [Regular, um, Expressions](https://cs50.harvard.edu/python/2022/psets/7/um): count the number of times a string appears in text
+  * [Response Validation](https://cs50.harvard.edu/python/2022/psets/7/response): validate email addresses
+
+- [Week 8: Object-Oriented Programming]
+  * [Seasons of Love](https://cs50.harvard.edu/python/2022/psets/8/seasons): compute age from date
+  * [Cookie Jar](https://cs50.harvard.edu/python/2022/psets/8/jar): create an OOP program for attributes/methods of a cookie jar
+  * [CS50 Shirtificate](https://cs50.harvard.edu/python/2022/psets/8/shirtificate): create a custom PDF image of shirt with text
+
+- [Week 9: Et Cetera](https://cs50.harvard.edu/python/2022/weeks/9/)
