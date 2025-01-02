@@ -22,23 +22,25 @@ Students who take CS50P learn:
 CS50P includes eleven lectures, each of which includes a problem set, except for the final lecture when a final project is assigned.
 
 
-Playback Speed
+
 Making Faces
 Einstein
 Tip Calculator
 
 - [Week 0: Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
   * Indoor Voice: convert uppercase text to lowercase text ([Question](https://cs50.harvard.edu/python/2022/psets/0/indoor/)
-  * Playback speed: convert spaces to ... ([Question](https://cs50.harvard.edu/python/2022/psets/0/playback)
-  * Making faces: convert text faces to emoji faces ([Question](https://cs50.harvard.edu/python/2022/psets/0/faces), [R](https://github.com/kvnduff/CS50P/tree/master/pset0/faces))
+  * Playback Speed: convert spaces to ... ([Question](https://cs50.harvard.edu/python/2022/psets/0/playback)
+  * Making Faces: convert text faces to emoji faces ([Question](https://cs50.harvard.edu/python/2022/psets/0/faces), [R](https://github.com/kvnduff/CS50P/tree/master/pset0/faces))
   * Einstein: convert mass to Joules ([Question](https://cs50.harvard.edu/python/2022/psets/0/einstein)
-  * Tip calculator: create a tip calculator ([Question](https://cs50.harvard.edu/python/2022/psets/0/tip)
+  * Tip Calculator: create a tip calculator ([Question](https://cs50.harvard.edu/python/2022/psets/0/tip)
+ 
 - Week 1: Conditionals
   * Deep thought: prompt the user for the answer to the Great Question of Life ([I](https://cs50.harvard.edu/python/2022/psets/1/deep), [R](https://github.com/kvnduff/CS50P/tree/master/pset1/deep))
   * Home Federal Savings Bank: prompt the user for a greeting ([I](https://cs50.harvard.edu/python/2022/psets/1/bank), [R](https://github.com/kvnduff/CS50P/tree/master/pset1/bank))
   * File extensions: output a file’s media type ([I](https://cs50.harvard.edu/python/2022/psets/1/extensions), [R](https://github.com/kvnduff/CS50P/tree/master/pset1/extensions))
   * Math interpreter: evaluate an arithmetic expression ([I](https://cs50.harvard.edu/python/2022/psets/1/interpreter), [R](https://github.com/kvnduff/CS50P/tree/master/pset1/interpreter))
   * Meal time: evaluate if a time is breakfast, lunch or dinner time ([I](https://cs50.harvard.edu/python/2022/psets/1/meal), [R](https://github.com/kvnduff/CS50P/tree/master/pset1/meal))
+
 - Week 2: Loops
   * camelCase: convert camel case to snake case  ([I](https://cs50.harvard.edu/python/2022/psets/2/camel), [R](https://github.com/kvnduff/CS50P/tree/master/pset2/camel))
   * Coke machine: count coins inserted into coke machine ([I](https://cs50.harvard.edu/python/2022/psets/2/coke), [R](https://github.com/kvnduff/CS50P/tree/master/pset2/coke))
