@@ -19,7 +19,7 @@ Students who take CS50P learn:
 - Et Cetera
 
 ### Projects
-CS50P includes eleven lectures, each of which includes a problem set, except for the final lecture when a final project is assigned.
+CS50P includes ten lectures, each of which includes a problem set, except for the final lecture when a final project is assigned.
 
 ---
 
