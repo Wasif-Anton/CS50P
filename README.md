@@ -29,10 +29,10 @@ CS50P includes eleven lectures, each of which includes a problem set, except for
   * [Einstein](https://cs50.harvard.edu/python/2022/psets/0/einstein): convert mass to Joules
   * [Tip Calculator](https://cs50.harvard.edu/python/2022/psets/0/tip): create a tip calculator
  
-- Week 1: Conditionals
-  * Deep thought: prompt the user for the answer to the Great Question of Life ([I](https://cs50.harvard.edu/python/2022/psets/1/deep), [R](https://github.com/kvnduff/CS50P/tree/master/pset1/deep))
-  * Home Federal Savings Bank: prompt the user for a greeting ([I](https://cs50.harvard.edu/python/2022/psets/1/bank), [R](https://github.com/kvnduff/CS50P/tree/master/pset1/bank))
-  * File extensions: output a file’s media type ([I](https://cs50.harvard.edu/python/2022/psets/1/extensions), [R](https://github.com/kvnduff/CS50P/tree/master/pset1/extensions))
+- [Week 1: Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/)
+  * [Deep Thought](https://cs50.harvard.edu/python/2022/psets/1/deep): prompt the user for the answer to the Great Question of Life 
+  * [Home Federal Savings Bank](https://cs50.harvard.edu/python/2022/psets/1/bank): prompt the user for a greeting
+  * [File Extensions](https://cs50.harvard.edu/python/2022/psets/1/extensions): output a file’s media type
   * Math interpreter: evaluate an arithmetic expression ([I](https://cs50.harvard.edu/python/2022/psets/1/interpreter), [R](https://github.com/kvnduff/CS50P/tree/master/pset1/interpreter))
   * Meal time: evaluate if a time is breakfast, lunch or dinner time ([I](https://cs50.harvard.edu/python/2022/psets/1/meal), [R](https://github.com/kvnduff/CS50P/tree/master/pset1/meal))
 
